@@ -1,0 +1,41 @@
+<div itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">Christopher Aaron</span>
+  <span itemprop="jobTitle">Mahasiswa Informatika - Fullstack Web Developer</span>
+  <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+    <span itemprop="streetAddress">Kp. Klitren Lor Gk 3, No.251</span>
+    <meta itemprop="addressRegion" content="DIY Yogyakarta" />
+    <meta itemprop="addressCountry" content="Indonesia" />
+  </div>
+  <span itemprop="affiliation">Universitas Kristen Duta Wacana</span>
+  <span itemprop="telephone">+62 898-3049-046</span>
+  <span itemprop="telephone">+62 858-2171-8411</span>
+  <span itemprop="email">christopheraaron253@email.com</span>
+  <span itemprop="email">christopher.aaron@ti.ukdw.ac.id</span>
+  <span itemprop="sameAs">https://www.linkedin.com/in/christopher-aaron-54790334b/</span>
+  <span itemprop="sameAs">https://www.tiktok.com/@ini_aku_d4c</span>
+  <span itemprop="sameAs">https://www.instagram.com/lexgrayron/?hl=en</span>
+</div>
+
+<div itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">Pius Jasticio Harnando</span>
+  <span itemprop="jobTitle">App Developer</span>
+  <span itemprop="sameAs">https://www.facebook.com/nan.ndo.90</span>
+  <span itemprop="sameAs">https://www.tiktok.com/@cukup1tauaja</span>
+  <span itemprop="sameAs">https://www.instagram.com/piusnando_/?hl=en</span>
+</div>
+
+<div itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">Alexandro Aurellino Anandito</span>
+  <span itemprop="jobTitle">Machine Learning Engineer</span>
+  <span itemprop="sameAs">https://www.linkedin.com/in/alxarl/</span>
+  <span itemprop="sameAs">https://github.com/AlexandroAurellino</span>
+  <span itemprop="sameAs">https://www.instagram.com/alx_arl/?hl=en</span>
+</div>
+
+<div itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">Eric Vincent Kho</span>
+  <span itemprop="jobTitle">Cloud Engineer</span>
+  <span itemprop="sameAs">https://www.linkedin.com/in/ericvkho/</span>
+  <span itemprop="sameAs">https://github.com/eric-vinn</span>
+  <span itemprop="sameAs">https://www.instagram.com/eric_vinn/?hl=en</span>
+</div>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="https://schema.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="Nd1b222032f48455d9a04b359ec42d719">
+    <ns1:sameAs>https://www.instagram.com/eric_vinn/?hl=en</ns1:sameAs>
+    <ns1:sameAs>https://www.linkedin.com/in/ericvkho/</ns1:sameAs>
+    <ns1:sameAs>https://github.com/eric-vinn</ns1:sameAs>
+    <ns1:jobTitle>Cloud Engineer</ns1:jobTitle>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <ns1:name>Eric Vincent Kho</ns1:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:nodeID="N7f18f10dcc384a61bfaa0bc33dcc25b7">
+    <ns1:name>Alexandro Aurellino Anandito</ns1:name>
+    <ns1:sameAs>https://www.linkedin.com/in/alxarl/</ns1:sameAs>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <ns1:jobTitle>Machine Learning Engineer</ns1:jobTitle>
+    <ns1:sameAs>https://github.com/AlexandroAurellino</ns1:sameAs>
+    <ns1:sameAs>https://www.instagram.com/alx_arl/?hl=en</ns1:sameAs>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="Ncfa3f469bf8a41e286def56e4bb341fc">
+    <ns1:sameAs>https://www.tiktok.com/@cukup1tauaja</ns1:sameAs>
+    <ns1:jobTitle>App Developer</ns1:jobTitle>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <ns1:name>Pius Jasticio Harnando</ns1:name>
+    <ns1:sameAs>https://www.instagram.com/piusnando_/?hl=en</ns1:sameAs>
+    <ns1:sameAs>https://www.facebook.com/nan.ndo.90</ns1:sameAs>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="N0e07bf87c0c54b5a9013b43bbbc04e9c">
+    <ns1:addressCountry>Indonesia</ns1:addressCountry>
+    <ns1:streetAddress>Kp. Klitren Lor Gk 3, No.251</ns1:streetAddress>
+    <rdf:type rdf:resource="https://schema.org/PostalAddress"/>
+    <ns1:addressRegion>DIY Yogyakarta</ns1:addressRegion>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="N4c865cd66aa74852a62d84fdcc00d826">
+    <ns1:email>christopheraaron253@email.com</ns1:email>
+    <ns1:sameAs>https://www.tiktok.com/@ini_aku_d4c</ns1:sameAs>
+    <ns1:email>christopher.aaron@ti.ukdw.ac.id</ns1:email>
+    <ns1:affiliation>Universitas Kristen Duta Wacana</ns1:affiliation>
+    <ns1:address rdf:nodeID="N0e07bf87c0c54b5a9013b43bbbc04e9c"/>
+    <ns1:jobTitle>Mahasiswa Informatika - Fullstack Web Developer</ns1:jobTitle>
+    <ns1:name>Christopher Aaron</ns1:name>
+    <ns1:sameAs>https://www.linkedin.com/in/christopher-aaron-54790334b/</ns1:sameAs>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <ns1:sameAs>https://www.instagram.com/lexgrayron/?hl=en</ns1:sameAs>
+    <ns1:telephone>+62 898-3049-046</ns1:telephone>
+    <ns1:telephone>+62 858-2171-8411</ns1:telephone>
+  </rdf:Description>
+</rdf:RDF>

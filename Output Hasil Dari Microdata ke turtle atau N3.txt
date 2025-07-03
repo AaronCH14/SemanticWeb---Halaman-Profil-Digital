@@ -1,0 +1,38 @@
+@prefix ns1: <https://schema.org/> .
+
+[] a ns1:Person ;
+    ns1:jobTitle "Cloud Engineer" ;
+    ns1:name "Eric Vincent Kho" ;
+    ns1:sameAs "https://github.com/eric-vinn",
+        "https://www.instagram.com/eric_vinn/?hl=en",
+        "https://www.linkedin.com/in/ericvkho/" .
+
+[] a ns1:Person ;
+    ns1:jobTitle "Machine Learning Engineer" ;
+    ns1:name "Alexandro Aurellino Anandito" ;
+    ns1:sameAs "https://github.com/AlexandroAurellino",
+        "https://www.instagram.com/alx_arl/?hl=en",
+        "https://www.linkedin.com/in/alxarl/" .
+
+[] a ns1:Person ;
+    ns1:address [ a ns1:PostalAddress ;
+            ns1:addressCountry "Indonesia" ;
+            ns1:addressRegion "DIY Yogyakarta" ;
+            ns1:streetAddress "Kp. Klitren Lor Gk 3, No.251" ] ;
+    ns1:affiliation "Universitas Kristen Duta Wacana" ;
+    ns1:email "christopher.aaron@ti.ukdw.ac.id",
+        "christopheraaron253@email.com" ;
+    ns1:jobTitle "Mahasiswa Informatika - Fullstack Web Developer" ;
+    ns1:name "Christopher Aaron" ;
+    ns1:sameAs "https://www.instagram.com/lexgrayron/?hl=en",
+        "https://www.linkedin.com/in/christopher-aaron-54790334b/",
+        "https://www.tiktok.com/@ini_aku_d4c" ;
+    ns1:telephone "+62 858-2171-8411",
+        "+62 898-3049-046" .
+
+[] a ns1:Person ;
+    ns1:jobTitle "App Developer" ;
+    ns1:name "Pius Jasticio Harnando" ;
+    ns1:sameAs "https://www.facebook.com/nan.ndo.90",
+        "https://www.instagram.com/piusnando_/?hl=en",
+        "https://www.tiktok.com/@cukup1tauaja" .

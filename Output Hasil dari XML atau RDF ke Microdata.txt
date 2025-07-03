@@ -1,0 +1,40 @@
+<div>
+  <div itemtype="https://schema.org/Person" itemscope>
+    <meta itemprop="telephone" content="+62 898-3049-046" />
+    <meta itemprop="sameAs" content="https://www.tiktok.com/@ini_aku_d4c" />
+    <meta itemprop="affiliation" content="Universitas Kristen Duta Wacana" />
+    <meta itemprop="jobTitle" content="Mahasiswa Informatika - Fullstack Web Developer" />
+    <meta itemprop="sameAs" content="https://www.instagram.com/lexgrayron/?hl=en" />
+    <div itemprop="address" itemtype="https://schema.org/PostalAddress" itemscope>
+      <meta itemprop="addressCountry" content="Indonesia" />
+      <meta itemprop="addressRegion" content="DIY Yogyakarta" />
+      <meta itemprop="streetAddress" content="Kp. Klitren Lor Gk 3, No.251" />
+    </div>
+    <meta itemprop="sameAs" content="https://www.linkedin.com/in/christopher-aaron-54790334b/" />
+    <meta itemprop="email" content="christopheraaron253@email.com" />
+    <meta itemprop="email" content="christopher.aaron@ti.ukdw.ac.id" />
+    <meta itemprop="telephone" content="+62 858-2171-8411" />
+    <meta itemprop="name" content="Christopher Aaron" />
+  </div>
+  <div itemtype="https://schema.org/Person" itemscope>
+    <meta itemprop="sameAs" content="https://www.instagram.com/alx_arl/?hl=en" />
+    <meta itemprop="jobTitle" content="Machine Learning Engineer" />
+    <meta itemprop="name" content="Alexandro Aurellino Anandito" />
+    <meta itemprop="sameAs" content="https://www.linkedin.com/in/alxarl/" />
+    <meta itemprop="sameAs" content="https://github.com/AlexandroAurellino" />
+  </div>
+  <div itemtype="https://schema.org/Person" itemscope>
+    <meta itemprop="sameAs" content="https://www.instagram.com/eric_vinn/?hl=en" />
+    <meta itemprop="sameAs" content="https://github.com/eric-vinn" />
+    <meta itemprop="sameAs" content="https://www.linkedin.com/in/ericvkho/" />
+    <meta itemprop="name" content="Eric Vincent Kho" />
+    <meta itemprop="jobTitle" content="Cloud Engineer" />
+  </div>
+  <div itemtype="https://schema.org/Person" itemscope>
+    <meta itemprop="name" content="Pius Jasticio Harnando" />
+    <meta itemprop="sameAs" content="https://www.tiktok.com/@cukup1tauaja" />
+    <meta itemprop="sameAs" content="https://www.instagram.com/piusnando_/?hl=en" />
+    <meta itemprop="jobTitle" content="App Developer" />
+    <meta itemprop="sameAs" content="https://www.facebook.com/nan.ndo.90" />
+  </div>
+</div>
